@@ -4,7 +4,7 @@
   "description": "React Countdown till Christmas",
   "repository": "https://github.com/kristinbaumann/react-countdown",
   "devDependencies": {
-    "react-scripts": "0.8.4"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "@material-ui/core": "^4.9.12",
